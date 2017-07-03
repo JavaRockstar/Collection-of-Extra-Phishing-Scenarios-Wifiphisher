@@ -1,0 +1,52 @@
+
+header {
+    width: 300px;
+    padding: 15px;
+    border: 1px solid lightgray;
+    margin: 0 auto;
+    border-radius: 5px;
+    font-family: Arial,sans-serif;
+    font-size:14px;
+}
+.poz{
+    margin: 0 auto;
+    width: 150px;
+    padding: 15px;
+}
+.align-h{
+    text-align: center;
+    color:gray;
+}
+button{
+    background-color: #f3d078;
+    color:black;
+    padding: 5px 120px;
+    border-radius: 5px;
+     font-family: Arial,sans-serif;
+}
+.style-b button{
+    background-color: silver;
+    text-align:right;
+    padding:5px 55px;
+}
+footer{
+    text-align: center;
+    padding: 20px 120px;
+    list-style-type: none
+}
+
+input{
+    padding: 5px 55px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+h1{
+    font-weight: 400;
+    font-size:28px;
+    line-height:1.2;
+}
